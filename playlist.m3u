@@ -1,0 +1,555 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Live News 24x7" tvg-id="5" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="NATIONAL",Live News 24x7
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi01/air001_Auto.m3u8
+#EXTINF:-1 tvg-name="Vividh Bharati" tvg-id="1" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="NATIONAL",Vividh Bharati
+https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8
+#EXTINF:-1 tvg-name="Raagam" tvg-id="4" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="NATIONAL",Raagam
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang04/air036_Auto.m3u8
+#EXTINF:-1 tvg-name="FM Gold Delhi" tvg-id="2" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="DELHI",FM Gold Delhi
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi03/air003_Auto.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Delhi" tvg-id="3" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="DELHI",FM Rainbow Delhi
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi02/air002_Auto.m3u8
+#EXTINF:-1 tvg-name="Indraprastha" tvg-id="40" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="DELHI",Indraprastha
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi06/air006_Auto.m3u8
+#EXTINF:-1 tvg-name="VBS Delhi" tvg-id="41" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="DELHI",VBS Delhi
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi04/air004_Auto.m3u8
+#EXTINF:-1 tvg-name="Akashvani Aaradhana" tvg-id="296" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="DELHI",Akashvani Aaradhana
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi05/air005_Auto.m3u8
+#EXTINF:-1 tvg-name="Akashvani Sri Vijaya Puram (Akashvani Port Blair)" tvg-id="42" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDAMAN NICOBAR",Akashvani Sri Vijaya Puram (Akashvani Port Blair)
+https://radio.wavespb.com/live/dc9ff2a05098df5b/dc9ff2a05098df5b.m3u8
+#EXTINF:-1 tvg-name="Vividh Bharati Vijayapuram" tvg-id="304" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDAMAN NICOBAR",Vividh Bharati Vijayapuram
+https://radio.wavespb.com/live/fbc6b60c0bdf0293/fbc6b60c0bdf0293.m3u8
+#EXTINF:-1 tvg-name="Akashvani Anantapur" tvg-id="43" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",Akashvani Anantapur
+https://radio.wavespb.com/live/3bcd83926d6c3cca/3bcd83926d6c3cca.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kadapa" tvg-id="44" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",Akashvani Kadapa
+https://radio.wavespb.com/live/26ec521ec4f7c684/26ec521ec4f7c684.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kurnool" tvg-id="45" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",Akashvani Kurnool
+https://radio.wavespb.com/live/57d77b93b7580e24/57d77b93b7580e24.m3u8
+#EXTINF:-1 tvg-name="Akashvani Markapur" tvg-id="46" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",Akashvani Markapur
+https://radio.wavespb.com/live/b11784e3b37b7620/b11784e3b37b7620.m3u8
+#EXTINF:-1 tvg-name="FM Simahapuri Nellore" tvg-id="47" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",FM Simahapuri Nellore
+https://radio.wavespb.com/live/8bc9175bb717c13b/8bc9175bb717c13b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tirupati" tvg-id="48" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",Akashvani Tirupati
+https://radio.wavespb.com/live/1119aa26b4e9f653/1119aa26b4e9f653.m3u8
+#EXTINF:-1 tvg-name="Akashvani Andhra Pradesh" tvg-id="49" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",Akashvani Andhra Pradesh
+https://radio.wavespb.com/live/2d38e3dcb8d4e0a4/2d38e3dcb8d4e0a4.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Vijayawada" tvg-id="50" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",FM Rainbow Vijayawada
+https://radio.wavespb.com/live/bad174fd7eac38d0/bad174fd7eac38d0.m3u8
+#EXTINF:-1 tvg-name="VB Telugu Vijayawada" tvg-id="51" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",VB Telugu Vijayawada
+https://radio.wavespb.com/live/0beac8e921bbfdbb/0beac8e921bbfdbb.m3u8
+#EXTINF:-1 tvg-name="Akashvani Visakhapatnam" tvg-id="52" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",Akashvani Visakhapatnam
+https://radio.wavespb.com/live/8362d532bd498fd0/8362d532bd498fd0.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Visakhapatnam" tvg-id="53" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ANDHRA PRADESH",FM Rainbow Visakhapatnam
+https://radio.wavespb.com/live/147314c8aedf4389/147314c8aedf4389.m3u8
+#EXTINF:-1 tvg-name="Akashvani Itanagar" tvg-id="54" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ARUNACHAL PRADESH",Akashvani Itanagar
+https://radio.wavespb.com/live/098c57a7f382c0d4/098c57a7f382c0d4.m3u8
+#EXTINF:-1 tvg-name="FM Arun Itanagar" tvg-id="55" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ARUNACHAL PRADESH",FM Arun Itanagar
+https://radio.wavespb.com/live/174624e09dbdcdde/174624e09dbdcdde.m3u8
+#EXTINF:-1 tvg-name="Akashvani Pasighat" tvg-id="56" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ARUNACHAL PRADESH",Akashvani Pasighat
+https://radio.wavespb.com/live/464360d5ed44082b/464360d5ed44082b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tawang" tvg-id="57" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ARUNACHAL PRADESH",Akashvani Tawang
+https://radio.wavespb.com/live/0ab7e5a9701ec9e2/0ab7e5a9701ec9e2.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tezu" tvg-id="58" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ARUNACHAL PRADESH",Akashvani Tezu
+https://radio.wavespb.com/live/7579db5ef9660a6e/7579db5ef9660a6e.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ziro" tvg-id="300" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ARUNACHAL PRADESH",Akashvani Ziro
+https://radio.wavespb.com/live/1f4ec5a1ea8e9015/1f4ec5a1ea8e9015.m3u8
+#EXTINF:-1 tvg-name="Akashvani Dibrugarh" tvg-id="59" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Dibrugarh
+https://radio.wavespb.com/live/6db6683f71f6df13/6db6683f71f6df13.m3u8
+#EXTINF:-1 tvg-name="Akashvani Diphu" tvg-id="60" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Diphu
+https://radio.wavespb.com/live/24092163948ab5d8/24092163948ab5d8.m3u8
+#EXTINF:-1 tvg-name="Akashvani Guwahati Mahabahu" tvg-id="61" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Guwahati Mahabahu
+https://radio.wavespb.com/live/d1712a1355f27abb/d1712a1355f27abb.m3u8
+#EXTINF:-1 tvg-name="Akashvani Guwahati Prayagjyotishpur" tvg-id="62" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Guwahati Prayagjyotishpur
+https://radio.wavespb.com/live/c8a130239e27ded0/c8a130239e27ded0.m3u8
+#EXTINF:-1 tvg-name="Akashvani Haflong" tvg-id="63" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Haflong
+https://radio.wavespb.com/live/0625378643a5d9ba/0625378643a5d9ba.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jorhat" tvg-id="64" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Jorhat
+https://radio.wavespb.com/live/202fb3b9e2e3f6f1/202fb3b9e2e3f6f1.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kokrajhar" tvg-id="295" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Kokrajhar
+https://radio.wavespb.com/live/f6fa349221f25803/f6fa349221f25803.m3u8
+#EXTINF:-1 tvg-name="Akashvani Nagaon" tvg-id="65" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Nagaon
+https://radio.wavespb.com/live/f2619d605f469c55/f2619d605f469c55.m3u8
+#EXTINF:-1 tvg-name="Akashvani Silchar" tvg-id="66" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Silchar
+https://radio.wavespb.com/live/389a55127e012f97/389a55127e012f97.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tezpur" tvg-id="67" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ASSAM",Akashvani Tezpur
+https://radio.wavespb.com/live/9260e7a38d76ffda/9260e7a38d76ffda.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bhagalpur" tvg-id="68" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="BIHAR",Akashvani Bhagalpur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Darbhanga" tvg-id="69" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="BIHAR",Akashvani Darbhanga
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Patna" tvg-id="70" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="BIHAR",Akashvani Patna
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Patna" tvg-id="71" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="BIHAR",FM Rainbow Patna
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8
+#EXTINF:-1 tvg-name="VBS Patna" tvg-id="72" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="BIHAR",VBS Patna
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Purnia Bihar" tvg-id="73" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="BIHAR",Akashvani Purnia Bihar
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Sasaram" tvg-id="74" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="BIHAR",Akashvani Sasaram
+https://radio.wavespb.com/live/cd626d48acead509/cd626d48acead509.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chandigarh" tvg-id="75" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="CHANDIGARH",Akashvani Chandigarh
+https://radio.wavespb.com/live/db4a912ff7882d9d/db4a912ff7882d9d.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ambikapur" tvg-id="76" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="CHHATISGARH",Akashvani Ambikapur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bilaspur" tvg-id="77" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="CHHATISGARH",Akashvani Bilaspur
+https://radio.wavespb.com/live/10dd6162d75fb6a4/10dd6162d75fb6a4.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jagdalpur" tvg-id="78" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="CHHATISGARH",Akashvani Jagdalpur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Raigarh" tvg-id="79" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="CHHATISGARH",Akashvani Raigarh
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chhattisgarh" tvg-id="80" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="CHHATISGARH",Akashvani Chhattisgarh
+https://radio.wavespb.com/live/5ed52a2deec8534e/5ed52a2deec8534e.m3u8
+#EXTINF:-1 tvg-name="VBS Raipur" tvg-id="81" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="CHHATISGARH",VBS Raipur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Saraipali" tvg-id="82" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="CHHATISGARH",Akashvani Saraipali
+https://radio.wavespb.com/live/5ed52a2deec8534e/5ed52a2deec8534e.m3u8
+#EXTINF:-1 tvg-name="Akashvani Daman" tvg-id="83" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="DAMAN AND DIU",Akashvani Daman
+https://radio.wavespb.com/live/c124a58382e75a46/c124a58382e75a46.m3u8
+#EXTINF:-1 tvg-name="Akashvani Mhadei Panaji" tvg-id="84" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GOA",Akashvani Mhadei Panaji
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8
+#EXTINF:-1 tvg-name="VBS Panaji" tvg-id="85" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GOA",VBS Panaji
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8
+#EXTINF:-1 tvg-name="VBS Panaji" tvg-id="302" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GOA",VBS Panaji
+https://radio.wavespb.com/live/39dd51a3e97b19b1/39dd51a3e97b19b1.m3u8
+#EXTINF:-1 tvg-name="Akashwani Gujarati" tvg-id="294" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",Akashwani Gujarati
+https://radio.wavespb.com/live/8a1bb2ca9d2a6741/8a1bb2ca9d2a6741.m3u8
+#EXTINF:-1 tvg-name="VBS Ahmedabad" tvg-id="86" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",VBS Ahmedabad
+https://radio.wavespb.com/live/983903b6acb669f3/983903b6acb669f3.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ahwa" tvg-id="87" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",Akashvani Ahwa
+https://radio.wavespb.com/live/0b169b8c30f2f151/0b169b8c30f2f151.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bhuj" tvg-id="88" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",Akashvani Bhuj
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Godhra" tvg-id="89" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",Akashvani Godhra
+https://radio.wavespb.com/live/3fa69e2c950b70e8/3fa69e2c950b70e8.m3u8
+#EXTINF:-1 tvg-name="Akashvani Himmatnagar" tvg-id="90" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",Akashvani Himmatnagar
+https://radio.wavespb.com/live/76ca5a0d02d6ba94/76ca5a0d02d6ba94.m3u8
+#EXTINF:-1 tvg-name="Akashvani Rajkot" tvg-id="91" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",Akashvani Rajkot
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8
+#EXTINF:-1 tvg-name="VBS Rajkot" tvg-id="92" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",VBS Rajkot
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Surat" tvg-id="93" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",Akashvani Surat
+https://radio.wavespb.com/live/fc6ce69c53a3d739/fc6ce69c53a3d739.m3u8
+#EXTINF:-1 tvg-name="Akashvani Vadodara" tvg-id="94" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="GUJARAT",Akashvani Vadodara
+https://radio.wavespb.com/live/e1c63b2c2b58921f/e1c63b2c2b58921f.m3u8
+#EXTINF:-1 tvg-name="Akashvani Hisar" tvg-id="95" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="HARYANA",Akashvani Hisar
+https://radio.wavespb.com/live/d3f37eacc0dc6495/d3f37eacc0dc6495.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kurukshetra" tvg-id="96" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="HARYANA",Akashvani Kurukshetra
+https://radio.wavespb.com/live/f71ea3f12ae3111c/f71ea3f12ae3111c.m3u8
+#EXTINF:-1 tvg-name="Akashvani Rohtak" tvg-id="97" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="HARYANA",Akashvani Rohtak
+https://radio.wavespb.com/live/d617676f1e7ac0a1/d617676f1e7ac0a1.m3u8
+#EXTINF:-1 tvg-name="Akashvani Dharamshala" tvg-id="98" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="HIMACHAL PRADESH",Akashvani Dharamshala
+https://radio.wavespb.com/live/c3ae5f110a14d3ba/c3ae5f110a14d3ba.m3u8
+#EXTINF:-1 tvg-name="Akashvani Hamirpur FM" tvg-id="99" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="HIMACHAL PRADESH",Akashvani Hamirpur FM
+https://radio.wavespb.com/live/51244bb8a94ec8ec/51244bb8a94ec8ec.m3u8
+#EXTINF:-1 tvg-name="Akashvani Shimla" tvg-id="100" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="HIMACHAL PRADESH",Akashvani Shimla
+https://radio.wavespb.com/live/0b6f48bb61b49957/0b6f48bb61b49957.m3u8
+#EXTINF:-1 tvg-name="Akashvani Shimla FM" tvg-id="101" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="HIMACHAL PRADESH",Akashvani Shimla FM
+https://radio.wavespb.com/live/66f234a8585d2fe0/66f234a8585d2fe0.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bhaderwah" tvg-id="102" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JAMMU & KASHMIR",Akashvani Bhaderwah
+https://radio.wavespb.com/live/92100ec0c2058b1a/92100ec0c2058b1a.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jammu" tvg-id="103" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JAMMU & KASHMIR",Akashvani Jammu
+https://radio.wavespb.com/live/42c7dca503e95fec/42c7dca503e95fec.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kathua" tvg-id="104" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JAMMU & KASHMIR",Akashvani Kathua
+https://radio.wavespb.com/live/b4173082e8f5e716/b4173082e8f5e716.m3u8
+#EXTINF:-1 tvg-name="Akashvani Srinagar" tvg-id="105" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JAMMU & KASHMIR",Akashvani Srinagar
+https://radio.wavespb.com/live/01e2be674a0543a6/01e2be674a0543a6.m3u8
+#EXTINF:-1 tvg-name="Akashvani Poonch" tvg-id="303" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JAMMU & KASHMIR",Akashvani Poonch
+https://radio.wavespb.com/live/a52d55fcbee4f4db/a52d55fcbee4f4db.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chaibasa" tvg-id="106" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JHARKHAND",Akashvani Chaibasa
+https://radio.wavespb.com/live/4b077b809c20f314/4b077b809c20f314.m3u8
+#EXTINF:-1 tvg-name="Akashvani Daltonganj" tvg-id="107" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JHARKHAND",Akashvani Daltonganj
+https://radio.wavespb.com/live/d94a676236c31713/d94a676236c31713.m3u8
+#EXTINF:-1 tvg-name="Akashvani Hazaribagh" tvg-id="108" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JHARKHAND",Akashvani Hazaribagh
+https://radio.wavespb.com/live/db054b48293b8eb4/db054b48293b8eb4.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jamshedpur" tvg-id="109" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JHARKHAND",Akashvani Jamshedpur
+https://radio.wavespb.com/live/c27e3dffec59b473/c27e3dffec59b473.m3u8
+#EXTINF:-1 tvg-name="VBS Jamshedpur" tvg-id="110" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JHARKHAND",VBS Jamshedpur
+https://radio.wavespb.com/live/ce9c6a3206b624a7/ce9c6a3206b624a7.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ranchi" tvg-id="111" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JHARKHAND",Akashvani Ranchi
+https://radio.wavespb.com/live/66b77f1dfee894bc/66b77f1dfee894bc.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Ranchi" tvg-id="112" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JHARKHAND",FM Rainbow Ranchi
+https://radio.wavespb.com/live/af6f533f997d4ae1/af6f533f997d4ae1.m3u8
+#EXTINF:-1 tvg-name="VBS Ranchi" tvg-id="113" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="JHARKHAND",VBS Ranchi
+https://radio.wavespb.com/live/d839e1ea3f3fd644/d839e1ea3f3fd644.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bellari" tvg-id="114" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Bellari
+https://radio.wavespb.com/live/5a457983e1e7e12f/5a457983e1e7e12f.m3u8
+#EXTINF:-1 tvg-name="Akashvani Karnataka" tvg-id="115" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Karnataka
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang01/air033_Auto.m3u8
+#EXTINF:-1 tvg-name="Amrutvarshini" tvg-id="116" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Amrutvarshini
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang05/air037_Auto.m3u8
+#EXTINF:-1 tvg-name="Rainbow Kannada Kaamanbilu" tvg-id="117" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Rainbow Kannada Kaamanbilu
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang02/air034_Auto.m3u8
+#EXTINF:-1 tvg-name="VB KANNADA" tvg-id="118" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",VB KANNADA
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airbang03/air035_Auto.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bhadravati" tvg-id="119" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Bhadravati
+https://radio.wavespb.com/live/ad5b1f0e1fd2e000/ad5b1f0e1fd2e000.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bijapur" tvg-id="120" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Bijapur
+https://radio.wavespb.com/live/8a8894314ac7be31/8a8894314ac7be31.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chitradurga" tvg-id="121" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Chitradurga
+https://radio.wavespb.com/live/c0b739e6443d99be/c0b739e6443d99be.m3u8
+#EXTINF:-1 tvg-name="Akashvani Dharwad" tvg-id="122" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Dharwad
+https://radio.wavespb.com/live/449dcf0b33491e65/449dcf0b33491e65.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kalaburgi (Gulbarga)" tvg-id="123" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Kalaburgi (Gulbarga)
+https://radio.wavespb.com/live/9b085f63b2c25275/9b085f63b2c25275.m3u8
+#EXTINF:-1 tvg-name="Akashvani Hassan" tvg-id="124" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Hassan
+https://radio.wavespb.com/live/9b1044084099f01c/9b1044084099f01c.m3u8
+#EXTINF:-1 tvg-name="Akashvani Hospet" tvg-id="125" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Hospet
+https://radio.wavespb.com/live/113d144f4ecf1dd5/113d144f4ecf1dd5.m3u8
+#EXTINF:-1 tvg-name="Akashvani Karwar" tvg-id="126" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Karwar
+https://radio.wavespb.com/live/723ab703b250900f/723ab703b250900f.m3u8
+#EXTINF:-1 tvg-name="Akashvani Mysuru" tvg-id="127" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Mysuru
+https://radio.wavespb.com/live/9d18e57ddfb1d4b4/9d18e57ddfb1d4b4.m3u8
+#EXTINF:-1 tvg-name="Akashvani Mangalore" tvg-id="128" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Mangalore
+https://radio.wavespb.com/live/3c522579906d4dcb/3c522579906d4dcb.m3u8
+#EXTINF:-1 tvg-name="Akashvani Madikeri" tvg-id="129" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Madikeri
+https://radio.wavespb.com/live/5f58506ab7d090ec/5f58506ab7d090ec.m3u8
+#EXTINF:-1 tvg-name="Akashvani Raichur" tvg-id="130" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KARNATAKA",Akashvani Raichur
+https://radio.wavespb.com/live/e39bab8a1a843e9e/e39bab8a1a843e9e.m3u8
+#EXTINF:-1 tvg-name="Akashvani Devikulam" tvg-id="131" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",Akashvani Devikulam
+https://radio.wavespb.com/live/e97acc829da9bf2a/e97acc829da9bf2a.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kannur" tvg-id="132" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",Akashvani Kannur
+https://radio.wavespb.com/live/b82c91a395fc4a7d/b82c91a395fc4a7d.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Kochi" tvg-id="133" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",FM Rainbow Kochi
+https://radio.wavespb.com/live/7df6f2a8c3c4d33b/7df6f2a8c3c4d33b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kochi" tvg-id="134" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",Akashvani Kochi
+https://radio.wavespb.com/live/70400e7510e87cdf/70400e7510e87cdf.m3u8
+#EXTINF:-1 tvg-name="Akashvani Calicut" tvg-id="135" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",Akashvani Calicut
+https://radio.wavespb.com/live/8321393de70015fc/8321393de70015fc.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kozhikode Real FM" tvg-id="136" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",Akashvani Kozhikode Real FM
+https://radio.wavespb.com/live/b69c296065db7627/b69c296065db7627.m3u8
+#EXTINF:-1 tvg-name="Akashvani Manjeri" tvg-id="137" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",Akashvani Manjeri
+https://radio.wavespb.com/live/58390a2ed33cea4a/58390a2ed33cea4a.m3u8
+#EXTINF:-1 tvg-name="Akashvani Thrissur" tvg-id="138" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",Akashvani Thrissur
+https://radio.wavespb.com/live/f70fdeca437dc326/f70fdeca437dc326.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kerala" tvg-id="12" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",Akashvani Kerala
+https://radio.wavespb.com/live/6ff13de7ea9b53d7/6ff13de7ea9b53d7.m3u8
+#EXTINF:-1 tvg-name="VB MALAYALAM" tvg-id="139" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="KERALA",VB MALAYALAM
+https://radio.wavespb.com/live/ad3a8436a329e2d6/ad3a8436a329e2d6.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kargil" tvg-id="140" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="LADAKH",Akashvani Kargil
+https://radio.wavespb.com/live/283b994f330d1e21/283b994f330d1e21.m3u8
+#EXTINF:-1 tvg-name="Akashvani Leh" tvg-id="141" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="LADAKH",Akashvani Leh
+https://radio.wavespb.com/live/f0dd9a4b04d3df3f/f0dd9a4b04d3df3f.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kavaratti" tvg-id="142" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="LAKSHADWEEP",Akashvani Kavaratti
+https://radio.wavespb.com/live/ffb3825f86c4b9e3/ffb3825f86c4b9e3.m3u8
+#EXTINF:-1 tvg-name="Akashvani Balaghat" tvg-id="143" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Balaghat
+https://radio.wavespb.com/live/971411cf78525ddb/971411cf78525ddb.m3u8
+#EXTINF:-1 tvg-name="Akashvani Betul" tvg-id="144" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Betul
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bhopal" tvg-id="145" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Bhopal
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8
+#EXTINF:-1 tvg-name="VBS Bhopal" tvg-id="146" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",VBS Bhopal
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio248/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chhatarpur" tvg-id="147" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Chhatarpur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chhindwara" tvg-id="148" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Chhindwara
+https://radio.wavespb.com/live/cd036f6c29b7c386/cd036f6c29b7c386.m3u8
+#EXTINF:-1 tvg-name="Akashvani Guna" tvg-id="149" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Guna
+https://radio.wavespb.com/live/e1d62b96207fe4b7/e1d62b96207fe4b7.m3u8
+#EXTINF:-1 tvg-name="Akashvani Gwalior" tvg-id="150" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Gwalior
+https://radio.wavespb.com/live/4934ba16034cf481/4934ba16034cf481.m3u8
+#EXTINF:-1 tvg-name="Akashvani Indore" tvg-id="151" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Indore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8
+#EXTINF:-1 tvg-name="VBS Indore" tvg-id="152" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",VBS Indore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jabalpur" tvg-id="153" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Jabalpur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jabalpur FM" tvg-id="154" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Jabalpur FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Khandwa" tvg-id="155" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Khandwa
+https://radio.wavespb.com/live/76260628792d0528/76260628792d0528.m3u8
+#EXTINF:-1 tvg-name="Akashvani Rewa" tvg-id="156" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Rewa
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Sagar" tvg-id="157" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Sagar
+https://radio.wavespb.com/live/b60eae3df5a29197/b60eae3df5a29197.m3u8
+#EXTINF:-1 tvg-name="Akashvani Shahdol" tvg-id="158" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Shahdol
+https://radio.wavespb.com/live/0f046e291da2017b/0f046e291da2017b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Shivpuri" tvg-id="159" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Shivpuri
+https://radio.wavespb.com/live/db8c03f2dcb2e896/db8c03f2dcb2e896.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ujjain" tvg-id="299" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MADHYA PRADESH",Akashvani Ujjain
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio233/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ahilyanagar (Ahmednagar)" tvg-id="160" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Ahilyanagar (Ahmednagar)
+https://radio.wavespb.com/live/e52945b98fa63678/e52945b98fa63678.m3u8
+#EXTINF:-1 tvg-name="Akashvani Akola" tvg-id="161" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Akola
+https://radio.wavespb.com/live/5dd27f81c839f0f5/5dd27f81c839f0f5.m3u8
+#EXTINF:-1 tvg-name="Akashvani Amravati" tvg-id="162" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Amravati
+https://radio.wavespb.com/live/662185c15bea296f/662185c15bea296f.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chhatrapati Sambhaji Nagar" tvg-id="163" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Chhatrapati Sambhaji Nagar
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Beed" tvg-id="164" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Beed
+https://radio.wavespb.com/live/3f62bdf39635ed61/3f62bdf39635ed61.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chandrapur" tvg-id="165" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Chandrapur
+https://radio.wavespb.com/live/8469b942291df38f/8469b942291df38f.m3u8
+#EXTINF:-1 tvg-name="Akashvani Dhule" tvg-id="166" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Dhule
+https://radio.wavespb.com/live/c0040b54233d76a1/c0040b54233d76a1.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jalgaon" tvg-id="167" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Jalgaon
+https://radio.wavespb.com/live/bd41e24a31710397/bd41e24a31710397.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kolhapur" tvg-id="168" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Kolhapur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Marathi Mumbai Asmita" tvg-id="6" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Marathi Mumbai Asmita
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8
+#EXTINF:-1 tvg-name="FM Gold Mumbai" tvg-id="169" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",FM Gold Mumbai
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum01/air049_Auto.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Mumbai" tvg-id="170" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",FM Rainbow Mumbai
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum02/air050_Auto.m3u8
+#EXTINF:-1 tvg-name="Samvadita Mumbai" tvg-id="171" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Samvadita Mumbai
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum04/air052_Auto.m3u8
+#EXTINF:-1 tvg-name="VBS Mumbai" tvg-id="172" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",VBS Mumbai
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airmum05/air053_Auto.m3u8
+#EXTINF:-1 tvg-name="VBS Nagpur" tvg-id="173" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",VBS Nagpur
+https://radio.wavespb.com/live/019f90c3d79daeb9/019f90c3d79daeb9.m3u8
+#EXTINF:-1 tvg-name="Akashvani Nagpur" tvg-id="174" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Nagpur
+https://radio.wavespb.com/live/84ad8273437552d7/84ad8273437552d7.m3u8
+#EXTINF:-1 tvg-name="Akashvani Nanded" tvg-id="175" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Nanded
+https://radio.wavespb.com/live/111df0bc650820de/111df0bc650820de.m3u8
+#EXTINF:-1 tvg-name="Akashvani Nasik" tvg-id="176" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Nasik
+https://radio.wavespb.com/live/810a1db2ef684745/810a1db2ef684745.m3u8
+#EXTINF:-1 tvg-name="Akashvani Dharashiv" tvg-id="177" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Dharashiv
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Parbhani" tvg-id="178" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Parbhani
+https://radio.wavespb.com/live/825fdd17744384f5/825fdd17744384f5.m3u8
+#EXTINF:-1 tvg-name="Akashvani Pune" tvg-id="179" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Pune
+https://radio.wavespb.com/live/39d650ca0476a1fe/39d650ca0476a1fe.m3u8
+#EXTINF:-1 tvg-name="Akashvani Pune FM" tvg-id="180" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Pune FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ratnagiri" tvg-id="181" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Ratnagiri
+https://radio.wavespb.com/live/615b82703c7e8a4c/615b82703c7e8a4c.m3u8
+#EXTINF:-1 tvg-name="Akashvani Sindhudurg" tvg-id="182" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Sindhudurg
+https://radio.wavespb.com/live/77aa8f10f47897a3/77aa8f10f47897a3.m3u8
+#EXTINF:-1 tvg-name="Akashvani Sangli" tvg-id="183" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Sangli
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Satara" tvg-id="184" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Satara
+https://radio.wavespb.com/live/6878cc031c86befd/6878cc031c86befd.m3u8
+#EXTINF:-1 tvg-name="Akashvani Solapur" tvg-id="185" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Solapur
+https://radio.wavespb.com/live/2792d5e06dbdc800/2792d5e06dbdc800.m3u8
+#EXTINF:-1 tvg-name="Akashvani Yavatmal" tvg-id="186" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MAHARASHTRA",Akashvani Yavatmal
+https://radio.wavespb.com/live/b8a30c8945577840/b8a30c8945577840.m3u8
+#EXTINF:-1 tvg-name="Akashvani Churachandpur" tvg-id="187" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MANIPUR",Akashvani Churachandpur
+https://radio.wavespb.com/live/1b5f328e785c8cf2/1b5f328e785c8cf2.m3u8
+#EXTINF:-1 tvg-name="Akashvani Imphal Kangla" tvg-id="188" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MANIPUR",Akashvani Imphal Kangla
+https://radio.wavespb.com/live/8fcf63e1a8d9016b/8fcf63e1a8d9016b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Imphal Sangai" tvg-id="189" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MANIPUR",Akashvani Imphal Sangai
+https://radio.wavespb.com/live/405d96a245accd64/405d96a245accd64.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jowai" tvg-id="190" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MEGHALAYA",Akashvani Jowai
+https://radio.wavespb.com/live/56465e7d42632ff1/56465e7d42632ff1.m3u8
+#EXTINF:-1 tvg-name="Akashvani Shillong" tvg-id="191" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MEGHALAYA",Akashvani Shillong
+https://radio.wavespb.com/live/8d920d17847ba75e/8d920d17847ba75e.m3u8
+#EXTINF:-1 tvg-name="FM Jongphi Shillong" tvg-id="192" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MEGHALAYA",FM Jongphi Shillong
+https://radio.wavespb.com/live/989abf4a5fee9240/989abf4a5fee9240.m3u8
+#EXTINF:-1 tvg-name="Akashvani North East Livestream" tvg-id="193" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MEGHALAYA",Akashvani North East Livestream
+https://radio.wavespb.com/live/0ce240322bab1873/0ce240322bab1873.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tura" tvg-id="194" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MEGHALAYA",Akashvani Tura
+https://radio.wavespb.com/live/a4c3a057df68d422/a4c3a057df68d422.m3u8
+#EXTINF:-1 tvg-name="Akashvani Aizawl" tvg-id="195" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MIZORAM",Akashvani Aizawl
+https://radio.wavespb.com/live/6893614bef61d497/6893614bef61d497.m3u8
+#EXTINF:-1 tvg-name="FM Zoawi Aizawl" tvg-id="196" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MIZORAM",FM Zoawi Aizawl
+https://radio.wavespb.com/live/443b0a952fbbe057/443b0a952fbbe057.m3u8
+#EXTINF:-1 tvg-name="Akashvani Lunglei" tvg-id="197" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="MIZORAM",Akashvani Lunglei
+https://radio.wavespb.com/live/3ab311dc7cdb60a1/3ab311dc7cdb60a1.m3u8
+#EXTINF:-1 tvg-name="Akashvani Mokokchung" tvg-id="198" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="NAGALAND",Akashvani Mokokchung
+https://radio.wavespb.com/live/4bf7a85c38f41705/4bf7a85c38f41705.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kohima" tvg-id="199" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="NAGALAND",Akashvani Kohima
+https://radio.wavespb.com/live/f5861f9687811aae/f5861f9687811aae.m3u8
+#EXTINF:-1 tvg-name="FM Tragopan Kohima" tvg-id="200" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="NAGALAND",FM Tragopan Kohima
+https://radio.wavespb.com/live/fff99886b825e2ae/fff99886b825e2ae.m3u8
+#EXTINF:-1 tvg-name="Akashvani Baripada" tvg-id="201" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Baripada
+https://radio.wavespb.com/live/9a5be453a1319cad/9a5be453a1319cad.m3u8
+#EXTINF:-1 tvg-name="Akashvani Berhampur" tvg-id="202" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Berhampur
+https://radio.wavespb.com/live/9ff9e2581893d28d/9ff9e2581893d28d.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bhawanipatna" tvg-id="203" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Bhawanipatna
+https://radio.wavespb.com/live/01249e3a4e4625bf/01249e3a4e4625bf.m3u8
+#EXTINF:-1 tvg-name="Akashvani Balangir" tvg-id="204" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Balangir
+https://radio.wavespb.com/live/6a8a1c15dc441c4e/6a8a1c15dc441c4e.m3u8
+#EXTINF:-1 tvg-name="Akashvani Cuttack" tvg-id="205" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Cuttack
+https://radio.wavespb.com/live/fbcc67ea837b6ea7/fbcc67ea837b6ea7.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Cuttack" tvg-id="206" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",FM Rainbow Cuttack
+https://radio.wavespb.com/live/e0ad71c249a45867/e0ad71c249a45867.m3u8
+#EXTINF:-1 tvg-name="VBS Cuttack" tvg-id="207" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",VBS Cuttack
+https://radio.wavespb.com/live/cde7bdd265f54e70/cde7bdd265f54e70.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jeypore" tvg-id="208" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Jeypore
+https://radio.wavespb.com/live/d59a448c8fa48c21/d59a448c8fa48c21.m3u8
+#EXTINF:-1 tvg-name="Akashvani Joranda" tvg-id="209" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Joranda
+https://radio.wavespb.com/live/3191cc8afa1d559b/3191cc8afa1d559b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Keonjhar" tvg-id="210" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Keonjhar
+https://radio.wavespb.com/live/e1afe27f9ccb5046/e1afe27f9ccb5046.m3u8
+#EXTINF:-1 tvg-name="Akashvani Puri FM" tvg-id="211" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Puri FM
+https://radio.wavespb.com/live/82893b35c7d1fa49/82893b35c7d1fa49.m3u8
+#EXTINF:-1 tvg-name="Akashvani Rourkela" tvg-id="212" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Rourkela
+https://radio.wavespb.com/live/6f4b24b6ac501e88/6f4b24b6ac501e88.m3u8
+#EXTINF:-1 tvg-name="Akashvani Mahanadi Sambalpur" tvg-id="213" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Mahanadi Sambalpur
+https://radio.wavespb.com/live/a6aee9a607d6b17a/a6aee9a607d6b17a.m3u8
+#EXTINF:-1 tvg-name="Akashvani Sambalpur" tvg-id="214" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="ODISHA",Akashvani Sambalpur
+https://radio.wavespb.com/live/a6aee9a607d6b17a/a6aee9a607d6b17a.m3u8
+#EXTINF:-1 tvg-name="Akashvani Karaikal" tvg-id="215" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="PUDUCHERRY",Akashvani Karaikal
+https://radio.wavespb.com/live/51065e9e2f00e83e/51065e9e2f00e83e.m3u8
+#EXTINF:-1 tvg-name="Akashvani Puducherry" tvg-id="216" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="PUDUCHERRY",Akashvani Puducherry
+https://radio.wavespb.com/live/6b93ba50696fddcd/6b93ba50696fddcd.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Puducherry" tvg-id="217" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="PUDUCHERRY",FM Rainbow Puducherry
+https://radio.wavespb.com/live/0e2a3509c6d25e11/0e2a3509c6d25e11.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bhatinda" tvg-id="218" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="PUNJAB",Akashvani Bhatinda
+https://radio.wavespb.com/live/8651d3d0c2021750/8651d3d0c2021750.m3u8
+#EXTINF:-1 tvg-name="Akashvani Punjabi" tvg-id="8" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="PUNJAB",Akashvani Punjabi
+https://radio.wavespb.com/live/5adc4acbbdd1f6cf/5adc4acbbdd1f6cf.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Jalandhar" tvg-id="219" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="PUNJAB",FM Rainbow Jalandhar
+https://radio.wavespb.com/live/027744169f5fad66/027744169f5fad66.m3u8
+#EXTINF:-1 tvg-name="Akashvani Patiala" tvg-id="220" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="PUNJAB",Akashvani Patiala
+https://radio.wavespb.com/live/8d1636496b33c77e/8d1636496b33c77e.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ludhiana" tvg-id="301" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="PUNJAB",Akashvani Ludhiana
+https://radio.wavespb.com/live/1a7150879f9e362c/1a7150879f9e362c.m3u8
+#EXTINF:-1 tvg-name="Akashvani Alwar" tvg-id="221" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Alwar
+https://radio.wavespb.com/live/67a9516c2ccd3fd5/67a9516c2ccd3fd5.m3u8
+#EXTINF:-1 tvg-name="Akashvani Banswara" tvg-id="222" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Banswara
+https://radio.wavespb.com/live/775687c68323aecb/775687c68323aecb.m3u8
+#EXTINF:-1 tvg-name="Akashvani Barmer" tvg-id="223" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Barmer
+https://radio.wavespb.com/live/a19c91113515497c/a19c91113515497c.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bikaner" tvg-id="224" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Bikaner
+https://radio.wavespb.com/live/e2588cb0ff825cd9/e2588cb0ff825cd9.m3u8
+#EXTINF:-1 tvg-name="Akashvani Chittorgarh" tvg-id="225" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Chittorgarh
+https://radio.wavespb.com/live/227618c9892db107/227618c9892db107.m3u8
+#EXTINF:-1 tvg-name="Akashvani Churu" tvg-id="226" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Churu
+https://radio.wavespb.com/live/c6506b14b519d47c/c6506b14b519d47c.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jaipur" tvg-id="227" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Jaipur
+https://radio.wavespb.com/live/ad081b4086797344/ad081b4086797344.m3u8
+#EXTINF:-1 tvg-name="VBS Jaipur" tvg-id="228" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",VBS Jaipur
+https://radio.wavespb.com/live/72d34573791c739b/72d34573791c739b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jaisalmer" tvg-id="229" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Jaisalmer
+https://radio.wavespb.com/live/54f9c9d68de4282b/54f9c9d68de4282b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jhalawar" tvg-id="230" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Jhalawar
+https://radio.wavespb.com/live/fdba5613a31b678b/fdba5613a31b678b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jodhpur" tvg-id="231" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Jodhpur
+https://radio.wavespb.com/live/520ec0fb4a9139a7/520ec0fb4a9139a7.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jodhpur Sun City FM" tvg-id="232" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Jodhpur Sun City FM
+https://radio.wavespb.com/live/23ae73f45ccdd42d/23ae73f45ccdd42d.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kota" tvg-id="233" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Kota
+https://radio.wavespb.com/live/b5004d73a5aa6787/b5004d73a5aa6787.m3u8
+#EXTINF:-1 tvg-name="Akashvani Mount Abu" tvg-id="234" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Mount Abu
+https://radio.wavespb.com/live/550cfb9bbee7b16d/550cfb9bbee7b16d.m3u8
+#EXTINF:-1 tvg-name="Akashvani Nagaur" tvg-id="235" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Nagaur
+https://radio.wavespb.com/live/09cb9a0f39768901/09cb9a0f39768901.m3u8
+#EXTINF:-1 tvg-name="Akashvani Sawai Madhopur" tvg-id="236" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Sawai Madhopur
+https://radio.wavespb.com/live/9f2c9cb132d3ae49/9f2c9cb132d3ae49.m3u8
+#EXTINF:-1 tvg-name="Akashvani Suratgarh" tvg-id="237" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Suratgarh
+https://radio.wavespb.com/live/1c07d04e88eb31c8/1c07d04e88eb31c8.m3u8
+#EXTINF:-1 tvg-name="Akashvani Udaipur" tvg-id="238" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Udaipur
+https://radio.wavespb.com/live/85190aca16096832/85190aca16096832.m3u8
+#EXTINF:-1 tvg-name="Akashvani Udaipur FM Lake City" tvg-id="239" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Udaipur FM Lake City
+https://radio.wavespb.com/live/71d3cbef594e01a9/71d3cbef594e01a9.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kotputli" tvg-id="306" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="RAJASTHAN",Akashvani Kotputli
+https://radio.wavespb.com/live/db62c9a589f741ac/db62c9a589f741ac.m3u8
+#EXTINF:-1 tvg-name="Akashvani Gangtok" tvg-id="240" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="SIKKIM",Akashvani Gangtok
+https://radio.wavespb.com/live/a2fa73a479445b3d/a2fa73a479445b3d.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tamil Nadu" tvg-id="9" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Tamil Nadu
+https://radio.wavespb.com/live/d533f2af4f49bd6f/d533f2af4f49bd6f.m3u8
+#EXTINF:-1 tvg-name="FM Gold Chennai" tvg-id="241" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",FM Gold Chennai
+https://radio.wavespb.com/live/84ad819b3f45dc08/84ad819b3f45dc08.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Chennai" tvg-id="297" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",FM Rainbow Chennai
+https://radio.wavespb.com/live/b20ff2fc0bb34b3d/b20ff2fc0bb34b3d.m3u8
+#EXTINF:-1 tvg-name="VB Tamil Chennai" tvg-id="242" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",VB Tamil Chennai
+https://radio.wavespb.com/live/f893db91dedcb4ab/f893db91dedcb4ab.m3u8
+#EXTINF:-1 tvg-name="Akashvani Coimbatore" tvg-id="243" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Coimbatore
+https://radio.wavespb.com/live/a6eec8ec7d6ee49d/a6eec8ec7d6ee49d.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Coimbatore" tvg-id="244" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",FM Rainbow Coimbatore
+https://radio.wavespb.com/live/3622d8d5aa1809b2/3622d8d5aa1809b2.m3u8
+#EXTINF:-1 tvg-name="Akashvani Dharmapuri" tvg-id="245" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Dharmapuri
+https://radio.wavespb.com/live/36378083c1be092b/36378083c1be092b.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kodaikanal" tvg-id="246" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Kodaikanal
+https://radio.wavespb.com/live/eef8fc0421c2cc48/eef8fc0421c2cc48.m3u8
+#EXTINF:-1 tvg-name="Akashvani Madurai" tvg-id="247" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Madurai
+https://radio.wavespb.com/live/5c28fdbb318c1f13/5c28fdbb318c1f13.m3u8
+#EXTINF:-1 tvg-name="Akashvani Madurai FM" tvg-id="305" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Madurai FM
+https://radio.wavespb.com/live/f910c4cf0415b953/f910c4cf0415b953.m3u8
+#EXTINF:-1 tvg-name="FM Nagercoil Kumari" tvg-id="248" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",FM Nagercoil Kumari
+https://radio.wavespb.com/live/10c64309264eb009/10c64309264eb009.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ooty" tvg-id="249" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Ooty
+https://radio.wavespb.com/live/e2ac3971fdada7d1/e2ac3971fdada7d1.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tiruchirappalli" tvg-id="250" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Tiruchirappalli
+https://radio.wavespb.com/live/bd8f073da8cde368/bd8f073da8cde368.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tiruchirappalli FM" tvg-id="251" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Tiruchirappalli FM
+https://radio.wavespb.com/live/340834aaac8e1081/340834aaac8e1081.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tirunelveli" tvg-id="252" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Tirunelveli
+https://radio.wavespb.com/live/ee7f2a29ab3b6bf9/ee7f2a29ab3b6bf9.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Tirunelveli" tvg-id="253" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",FM Rainbow Tirunelveli
+https://radio.wavespb.com/live/a8b9f00a52568fbd/a8b9f00a52568fbd.m3u8
+#EXTINF:-1 tvg-name="Akashvani Tuticorin" tvg-id="254" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TAMIL NADU",Akashvani Tuticorin
+https://radio.wavespb.com/live/2e8cfad789dc692d/2e8cfad789dc692d.m3u8
+#EXTINF:-1 tvg-name="Akashvani Adilabad" tvg-id="38" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TELANGANA",Akashvani Adilabad
+https://radio.wavespb.com/live/e47c5f0cec4af335/e47c5f0cec4af335.m3u8
+#EXTINF:-1 tvg-name="Akashvani Telangana" tvg-id="255" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TELANGANA",Akashvani Telangana
+https://radio.wavespb.com/live/1c701f7b70df2568/1c701f7b70df2568.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Hyderabad" tvg-id="256" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TELANGANA",FM Rainbow Hyderabad
+https://radio.wavespb.com/live/3a02c5c035815bb9/3a02c5c035815bb9.m3u8
+#EXTINF:-1 tvg-name="VB Telugu Hyderabad" tvg-id="257" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TELANGANA",VB Telugu Hyderabad
+https://radio.wavespb.com/live/89969ad91f106dde/89969ad91f106dde.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kothagudem" tvg-id="258" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TELANGANA",Akashvani Kothagudem
+https://radio.wavespb.com/live/8416764ec0889597/8416764ec0889597.m3u8
+#EXTINF:-1 tvg-name="Akashvani Nizamabad" tvg-id="259" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TELANGANA",Akashvani Nizamabad
+https://radio.wavespb.com/live/5d9989b5189a8f4a/5d9989b5189a8f4a.m3u8
+#EXTINF:-1 tvg-name="Akashvani Warangal" tvg-id="260" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TELANGANA",Akashvani Warangal
+https://radio.wavespb.com/live/deae7120a205bfff/deae7120a205bfff.m3u8
+#EXTINF:-1 tvg-name="Akashvani Agartala" tvg-id="261" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TRIPURA",Akashvani Agartala
+https://radio.wavespb.com/live/8e8696f98500ad60/8e8696f98500ad60.m3u8
+#EXTINF:-1 tvg-name="FM Ujjayanta Agartala" tvg-id="262" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TRIPURA",FM Ujjayanta Agartala
+https://radio.wavespb.com/live/d65912ef9829b8c9/d65912ef9829b8c9.m3u8
+#EXTINF:-1 tvg-name="Akashvani Belonia" tvg-id="263" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TRIPURA",Akashvani Belonia
+https://radio.wavespb.com/live/00ff79c493fe8353/00ff79c493fe8353.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kailashahar" tvg-id="264" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="TRIPURA",Akashvani Kailashahar
+https://radio.wavespb.com/live/c84f390b94a07703/c84f390b94a07703.m3u8
+#EXTINF:-1 tvg-name="Akashvani Agra" tvg-id="265" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Agra
+https://radio.wavespb.com/live/94e6de05aa9b04b0/94e6de05aa9b04b0.m3u8
+#EXTINF:-1 tvg-name="Akashvani Prayagraj" tvg-id="266" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Prayagraj
+https://radio.wavespb.com/live/7427fdb9d3f69c5d/7427fdb9d3f69c5d.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bareilly" tvg-id="267" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Bareilly
+https://radio.wavespb.com/live/e323812d96d7881d/e323812d96d7881d.m3u8
+#EXTINF:-1 tvg-name="Akashvani Ayodhya" tvg-id="268" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Ayodhya
+https://radio.wavespb.com/live/750c49044bde8cfe/750c49044bde8cfe.m3u8
+#EXTINF:-1 tvg-name="Akashvani Gorakhpur" tvg-id="269" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Gorakhpur
+https://radio.wavespb.com/live/90f2250fec262bde/90f2250fec262bde.m3u8
+#EXTINF:-1 tvg-name="Akashvani Jhansi" tvg-id="270" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Jhansi
+https://radio.wavespb.com/live/f8f027390a964141/f8f027390a964141.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kanpur" tvg-id="271" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Kanpur
+https://radio.wavespb.com/live/278ca8613f27411e/278ca8613f27411e.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Kanpur" tvg-id="272" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",FM Rainbow Kanpur
+https://radio.wavespb.com/live/c0df5324304ad39e/c0df5324304ad39e.m3u8
+#EXTINF:-1 tvg-name="Akashvani Lucknow" tvg-id="273" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Lucknow
+https://radio.wavespb.com/live/75c01e54cb46ad29/75c01e54cb46ad29.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Lucknow" tvg-id="274" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",FM Rainbow Lucknow
+https://radio.wavespb.com/live/81c465a355a1ea65/81c465a355a1ea65.m3u8
+#EXTINF:-1 tvg-name="Akashvani Mathura" tvg-id="275" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Mathura
+https://radio.wavespb.com/live/5e42265becd8a816/5e42265becd8a816.m3u8
+#EXTINF:-1 tvg-name="Akashvani Najibabad" tvg-id="276" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Najibabad
+https://radio.wavespb.com/live/4aaa85cab056e9c1/4aaa85cab056e9c1.m3u8
+#EXTINF:-1 tvg-name="Akashvani Obra" tvg-id="277" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Obra
+https://radio.wavespb.com/live/6a6133146118961c/6a6133146118961c.m3u8
+#EXTINF:-1 tvg-name="Akashvani Rampur" tvg-id="278" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Rampur
+https://radio.wavespb.com/live/bc3b1ad27f1e2fda/bc3b1ad27f1e2fda.m3u8
+#EXTINF:-1 tvg-name="Akashvani Varanasi" tvg-id="279" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",Akashvani Varanasi
+https://radio.wavespb.com/live/43290b0b741fd08f/43290b0b741fd08f.m3u8
+#EXTINF:-1 tvg-name="KumbhVani" tvg-id="298" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTAR PRADESH",KumbhVani
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio300/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Almora" tvg-id="280" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTARAKHAND",Akashvani Almora
+https://radio.wavespb.com/live/38719309b3b91cdc/38719309b3b91cdc.m3u8
+#EXTINF:-1 tvg-name="Akashvani Dehradun" tvg-id="281" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTARAKHAND",Akashvani Dehradun
+https://radio.wavespb.com/live/355939733d28e2e7/355939733d28e2e7.m3u8
+#EXTINF:-1 tvg-name="Akashvani Pauri" tvg-id="282" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="UTTARAKHAND",Akashvani Pauri
+https://radio.wavespb.com/live/101ea47cdd9c59df/101ea47cdd9c59df.m3u8
+#EXTINF:-1 tvg-name="Akashvani Bangla" tvg-id="283" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",Akashvani Bangla
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol07/air071_Auto.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kolkata Geetanjali" tvg-id="284" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",Akashvani Kolkata Geetanjali
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol01/air065_Auto.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kolkata Sanchayita" tvg-id="285" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",Akashvani Kolkata Sanchayita
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol02/air066_Auto.m3u8
+#EXTINF:-1 tvg-name="FM Gold Kolkata" tvg-id="286" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",FM Gold Kolkata
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol06/air070_Auto.m3u8
+#EXTINF:-1 tvg-name="FM Rainbow Kolkata" tvg-id="287" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",FM Rainbow Kolkata
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol05/air069_Auto.m3u8
+#EXTINF:-1 tvg-name="VBS Kolkata" tvg-id="288" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",VBS Kolkata
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol04/air068_Auto.m3u8
+#EXTINF:-1 tvg-name="Akashvani Kurseong" tvg-id="289" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",Akashvani Kurseong
+https://radio.wavespb.com/live/1f781b48497e67d3/1f781b48497e67d3.m3u8
+#EXTINF:-1 tvg-name="Akashvani Murshidabad" tvg-id="290" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",Akashvani Murshidabad
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8
+#EXTINF:-1 tvg-name="Akashvani Shantiniketan" tvg-id="291" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",Akashvani Shantiniketan
+https://radio.wavespb.com/live/66249dfecaf80241/66249dfecaf80241.m3u8
+#EXTINF:-1 tvg-name="Akashvani Maitree" tvg-id="292" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",Akashvani Maitree
+https://d3r9rhourdc02u.cloudfront.net/assets/radio/airkol03/air067_Auto.m3u8
+#EXTINF:-1 tvg-name="Akashvani Siliguri" tvg-id="293" tvg-logo="https://raw.githubusercontent.com/bsmjsambalpuri/Radio-Playlist/refs/heads/main/fm.png" group-title="WEST BENGAL",Akashvani Siliguri
+https://radio.wavespb.com/live/165856ba98ca031a/165856ba98ca031a.m3u8
